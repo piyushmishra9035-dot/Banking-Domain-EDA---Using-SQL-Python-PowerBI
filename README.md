@@ -1,4 +1,4 @@
-# 🏦 Banking Dashboard (Power BI Project)
+# 🏦 Banking Domain EDA
 
 ## 📌 Problem Statement  
 The main goal of this project is to develop a **basic understanding of risk analytics** in banking and financial services, and to understand **how data can be used to minimize financial risk** while lending to customers.
